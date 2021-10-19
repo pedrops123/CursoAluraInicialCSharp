@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_11_CalculaInvestimentoALongoPrazo</RootNamespace>
+    <RootNamespace>Q12_ForEncadeado</RootNamespace>
   </PropertyGroup>
 
 </Project>

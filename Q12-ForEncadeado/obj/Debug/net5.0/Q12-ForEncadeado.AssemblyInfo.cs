@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("11-CalculaInvestimentoALongoPrazo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Q12-ForEncadeado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("11-CalculaInvestimentoALongoPrazo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("11-CalculaInvestimentoALongoPrazo")]
+[assembly: System.Reflection.AssemblyProductAttribute("Q12-ForEncadeado")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Q12-ForEncadeado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

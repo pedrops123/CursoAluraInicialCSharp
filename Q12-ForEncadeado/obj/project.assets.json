@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CursoAlura\\CursoAlura\\11-CalculaInvestimentoALongoPrazo\\11-CalculaInvestimentoALongoPrazo.csproj",
-      "projectName": "11-CalculaInvestimentoALongoPrazo",
-      "projectPath": "C:\\CursoAlura\\CursoAlura\\11-CalculaInvestimentoALongoPrazo\\11-CalculaInvestimentoALongoPrazo.csproj",
+      "projectUniqueName": "C:\\CursoAlura\\CursoAlura\\Q12-ForEncadeado\\Q12-ForEncadeado.csproj",
+      "projectName": "Q12-ForEncadeado",
+      "projectPath": "C:\\CursoAlura\\CursoAlura\\Q12-ForEncadeado\\Q12-ForEncadeado.csproj",
       "packagesPath": "C:\\Users\\pvfurlan\\.nuget\\packages\\",
-      "outputPath": "C:\\CursoAlura\\CursoAlura\\11-CalculaInvestimentoALongoPrazo\\obj\\",
+      "outputPath": "C:\\CursoAlura\\CursoAlura\\Q12-ForEncadeado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pvfurlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
